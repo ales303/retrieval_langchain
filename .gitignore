@@ -1,0 +1,6 @@
+destwin_text_files
+qdrant_databases
+sqlite_databases
+__pycache__
+.idea
+profile_configs.json

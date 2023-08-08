@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "openai_key": "",
+        "openai_embedding_model": "",
+        "openai_model": "",
+        "hypertuning_to_use": {},
+        "database_name": null,
+        "database_user": null,
+        "database_pass": null,
+        "qdrant_db_path": "qdrant_databases",
+        "sqlite_db_path": "sqlite_databases"
+    },
+
+]
